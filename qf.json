@@ -1,12 +1,12 @@
 {
-    "version": "2.0.18",
+    "version": "2.0.25",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/quickfixgo/examples/releases/download/v2.0.18/qf_2.0.18_Windows_x86_64.tar.gz",
+            "url": "https://github.com/quickfixgo/examples/releases/download/v2.0.25/qf_2.0.25_Windows_x86_64.tar.gz",
             "bin": [
                 "qf.exe"
             ],
-            "hash": "5b148515d7827a5fe551ce5fb24bef37107d9eb62e81bfe5f0f462ed3e87bc04"
+            "hash": "3d51ff0119595668526b08967850d5b8aad15ebf9b137adfc351fc3e1ce68352"
         }
     },
     "homepage": "https://github.com/quickfixgo/examples",
